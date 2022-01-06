@@ -1,0 +1,62 @@
+#etp{
+    background-color: rgb(194, 108, 235);
+    border-radius: 5px;
+    border-color: black;
+    border: solid 3px;
+}
+#etp:hover{
+    transition: all 0.5s;
+    background-color: rgb(221, 148, 255);
+    border-radius: 5px;
+    border-color: black;
+    border: solid 5px;
+    
+}
+#etp2{
+    background-color: rgb(157, 157, 245);
+}
+#Areap{
+    background-color: rgb(86, 230, 255);
+    border-radius: 5px;
+    border-color: black;
+    border: solid 3px;
+}
+#Areap:hover{
+    transition: all 0.5s;
+    background-color: rgb(28, 199, 241);
+    border-radius: 5px;
+    border-color: black;
+    border: solid 5px;
+}
+#etp3{
+    background-color: rgb(248, 76, 76);
+    border-radius: 5px;
+    border-color: black;
+    border-top: solid 3px black;
+    border-left: solid 3px black;
+    border-bottom: solid 3px black;}
+
+#col3{
+    background-color: rgb(248, 76, 76);
+    border-radius: 5px;
+    border-top: solid 3px black;
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;   
+}
+
+#btn{
+    font-size: 25px;
+    background-color: rgb(149, 149, 231);
+    padding: 15px;
+    margin: 25px;
+    height: 150px;
+    width: 250px;
+}
+#btn:hover{
+    transition: 1s;
+    width: 249px;
+    height: 155px;
+    border: solid black;
+    background-color: rgb(124, 124, 241);
+    
+}
