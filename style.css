@@ -58,8 +58,11 @@
 #btn:hover{
     transition: 1s;
     width: 249px;
-    height: 155px;
+    height: 145px;
     border: solid black;
     background-color: rgb(124, 124, 241);
+      border: solid;
+    border-color: black;
+    border: 1px;
     
 }
